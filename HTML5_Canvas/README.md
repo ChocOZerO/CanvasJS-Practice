@@ -1,8 +1,8 @@
 HTML5 Canvas
 ============
 
-###Study with private study group.
+_Study with private study group._
 
-Ref : 
-Core __HTML5 Canvas__: Graphics, Animation, and Game Development
-<http://corehtml5canvas.com />
+Ref : <br />
+Core __HTML5 Canvas__: Graphics, Animation, and Game Development <br />
+<http://corehtml5canvas.com>
